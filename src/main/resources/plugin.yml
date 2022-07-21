@@ -1,0 +1,13 @@
+name: Lobby
+version: 1.0
+api-version: 1.13
+author: dirty
+load: STARTUP
+main: de.dirty.lobby.Lobby
+commands:
+   setspawn:
+      description: setze den setspawn !
+   test:
+      description: teste das Leben!
+   fly:
+      description: du kans fligen
